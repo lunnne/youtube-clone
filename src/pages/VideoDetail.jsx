@@ -20,8 +20,6 @@ export default function VideoDetail() {
   if (isLoading) return <p>is Loding..</p>;
   if (error) return <p>error occured..</p>;
 
-  console.log(video);
-
   return (
     <main className="grid grid-cols-5 gap-5">
       <article className="col-span-4 my-5">

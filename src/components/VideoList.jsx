@@ -33,7 +33,7 @@ export default function VideoList({ videoId}) {
 
   return (
     <div className={videoId? 'grid grid-cols-1' : `grid grid-cols-5  auto-rows-auto gap-5`}>
-      {videoList.items.map((item) => (
+      { videoList && videoList.items.map((item) => (
         <VideoCard key={uuidv4()} item={item} videoId={videoId}/>
       ))}
     </div>
