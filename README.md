@@ -8,8 +8,9 @@
 The YouTube Clone App is a project that aims to replicate the YouTube website by utilizing the YouTube Data API.
 
 ## Demo 
-#### live Demo 👉 [Youtube Clone App](https://youtube-clone-rewrite.netlify.app)
+#### 🌻live Demo 👉 [Youtube Clone App](https://youtube-clone-rewrite.netlify.app)
 <br/>
+<img width="60%" src="https://github.com/lunnne/shoppy-project/assets/94328456/b5cb86e1-2b09-44a2-ac38-8a1e1b294ddd"/>
 
 ## Installation and Execution 
 <pre><code>$ git clone https://github.com/lunnne/youtube-clone.git
