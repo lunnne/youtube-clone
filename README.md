@@ -1,9 +1,15 @@
 # YouTube Clone App
-
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Reactquery-FF4154?style=flat&logo=reactquery&logoColor=white"/> <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=white"/> <img src="https://img.shields.io/badge/Reactrouter-CA4245?style=flat&logo=reactrouter&logoColor=white"/>    
+<img src="https://img.shields.io/badge/Tailwindcss-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/> 
+<img src="https://img.shields.io/badge/axios-5A29E4?style=flat&logo=axios&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat&logo=Yarn&logoColor=white"/> 
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>   
+<br/>
 The YouTube Clone App is a project that aims to replicate the YouTube website by utilizing the YouTube Data API.
 
 ## Demo 
 #### live Demo 👉 [Youtube Clone App](https://youtube-clone-rewrite.netlify.app)
+<br/>
 
 ## Installation and Execution 
 <pre><code>$ git clone https://github.com/lunnne/youtube-clone.git
@@ -19,10 +25,9 @@ The YouTube Clone App provides the following key features:
 + __Video Details:__ The app displays detailed information about the selected video, including its description, uploader, and upload time.
 
 + __Related Videos:__ For the selected video, the app also displays a list of related videos to keep users engaged.
+<br/>
 
 ## Deployment
-
-## About Project 
-* YouTube data API
-* react-router, Tanstack Query
-* tailwind css
+<p>
+  <img width="100px"src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white"/>
+</p>
